@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.csv
+*.png
+*.html
+*.db
+funnel_analysis.csv
+junuary.csv
+orders.csv
+products.csv
+users.csv
