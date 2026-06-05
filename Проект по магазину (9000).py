@@ -524,5 +524,5 @@ print("График сохранён как my_dashboard.png")
 
 print(df.head())
 
-df.commit
+
 
