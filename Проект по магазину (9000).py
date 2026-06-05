@@ -522,5 +522,7 @@ print("График сохранён как my_dashboard.png")
 # # Выводим отчёт
 # results = ab_test.print_report()
 
+print(df.head())
 
+df.commit
 
