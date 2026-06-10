@@ -524,5 +524,6 @@ print("График сохранён как my_dashboard.png")
 
 print(df.head())
 
-
+print(df.head())
+rgkgkkk
 
